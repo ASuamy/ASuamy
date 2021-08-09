@@ -1,5 +1,4 @@
-### Oi! Tudo bem? 
-Meu nome é Amanda Suamy.
+### Olá! Tudo bem? 
 Welcome to my world 😄
 
 <div>
